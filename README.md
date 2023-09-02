@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Redux**
 
-- 👨‍💻 All of my designs are available at [https://www.behance.net/ydenacayago](https://www.behance.net/ydenacayago)
+- 👨‍💻 All of my designs are available at [behance](https://www.behance.net/ydenacayago)
 
 - 💬 Ask me about **Wordpress, Javascript and React**
 
 - 📫 How to reach me **edenacayago@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SPZLlYxHTWCztTirpnGdWt8JAS-xvjHp/view?usp=sharing](https://drive.google.com/file/d/1SPZLlYxHTWCztTirpnGdWt8JAS-xvjHp/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1LEvWURhsZgWrZWtjdQmiBOLcQDhj7jkG/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
