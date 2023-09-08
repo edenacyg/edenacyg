@@ -18,7 +18,7 @@
 <a href="https://www.linkedin.com/in/edena-rose-cayago-b99700164/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edena rose cayago" height="30" width="40" /></a>
 <a href="https://instagram.com/arth.gallry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arth.gallry" height="30" width="40" /></a>
 <a href="https://www.behance.net/ydenacayago" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="edena rose cayago" height="30" width="40" /></a>
-<a href="https://discord.gg/Meiviolin#8380" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="meiviolin" height="30" width="40" /></a>
+<a href="discordapp.com/users/edenacyg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="meiviolin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
