@@ -3,11 +3,9 @@
 <h3 align="center">A passionate web developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my designs are available at [behance](https://www.behance.net/ydenacayago)
-
-- 💬 Ask me about **Wordpress, Javascript and React**
 
 - 📫 How to reach me **edenacayago@gmail.com**
 
