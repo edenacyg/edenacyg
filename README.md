@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Redux | Zustand | NextJS**
 
-- 👨‍💻 All of my designs are available at [behance](https://www.behance.net/ydenacayago)
-
 - 📫 How to reach me **edenacayago@gmail.com**
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1LEvWURhsZgWrZWtjdQmiBOLcQDhj7jkG/view?usp=sharing)
